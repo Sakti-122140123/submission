@@ -8,7 +8,9 @@ Dashboard ini dibuat untuk menganalisis pola penyewaan sepeda berdasarkan musim,
 submission
 ├───dashboard
 │   ├───dashboard.py
+│   ├───main_data.csv
 ├───data
+│   ├───data_1.csv
 │   ├───data_1.csv
 ├───notebook.ipynb
 ├───README.md
