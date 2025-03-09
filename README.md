@@ -56,5 +56,5 @@ Buka browser dan akses **`http://localhost:8501/`** untuk melihat dashboard.
 
 ## 📌 Catatan
 
-- Dataset yang digunakan (`data_1.csv`) berasal dari sistem Bike Sharing Washington D.C. tahun **2011-2012**.
+- Dataset yang digunakan (`data_1.csv`, `data_1.csv`) berasal dari sistem Bike Sharing Washington D.C. tahun **2011-2012**.
 - Semua dependensi terdapat dalam **`requirements.txt`**.
