@@ -1,0 +1,2 @@
+http://192.168.1.10:8501
+https://submission-sakti-codingcamp2025.streamlit.app/
